@@ -1,6 +1,6 @@
-# Project Name
+# 06-fcc-rothkopainting
 
-> One paragraph statement about the project.
+> A rothkopainting using html and css
 
 ![screenshot](./app_screenshot.png)
 
@@ -8,13 +8,13 @@ Additional description of the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- html
+- div
+- CSS
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://06-fcc-rothkopainting.netlify.app)
 
 ### Development (Running locally)
 
