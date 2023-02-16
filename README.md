@@ -1,6 +1,8 @@
 # 06-fcc-rothkopainting
 
-> A rothkopainting using html and css
+> All HTML element is its own box – with its own spacing and border.it is called the Box Model.
+
+A Rothko-style rectangular art piece using CSS and the Box Model.
 
 ![screenshot](./app_screenshot.png)
 
