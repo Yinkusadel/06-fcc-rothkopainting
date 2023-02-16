@@ -1,4 +1,4 @@
-# 06-fcc-rothkopainting
+# Rothkopainting
 
 > All HTML element is its own box – with its own spacing and border.it is called the Box Model.
 
