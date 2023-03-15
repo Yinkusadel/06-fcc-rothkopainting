@@ -10,9 +10,20 @@ Additional description of the project and its features.
 
 ## Built With
 
-- html
-- div
-- CSS
+- ### HTML5 elements
+  - **Block element**
+    `div`
+- ### CSS properties
+  - CSS overflow `hidden`
+  - CSS transform `rotate`
+  - CSS filter `blur`
+  - CSS background for page aesthetic using `background-color`
+  - CSS selectors `class selector` `multiple selector`
+- ### Linters
+  - [prettier](prettier),
+  - [stylelint](stylelint).
+
+### GitHub Action
 
 ## Live Demo
 
