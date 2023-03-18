@@ -1,6 +1,8 @@
-# Project Name
+# Rothkopainting
 
-> One paragraph statement about the project.
+> All HTML element is its own box – with its own spacing and border.it is called the Box Model.
+
+A Rothko-style rectangular art piece using CSS and the Box Model.
 
 ![screenshot](./app_screenshot.png)
 
@@ -8,13 +10,24 @@ Additional description of the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- ### HTML5 elements
+  - **Block element**
+    `div`
+- ### CSS properties
+  - CSS overflow `hidden`
+  - CSS transform `rotate`
+  - CSS filter `blur`
+  - CSS background for page aesthetic using `background-color`
+  - CSS selectors `class selector` `multiple selector`
+- ### Linters
+  - [prettier](prettier),
+  - [stylelint](stylelint).
+
+### GitHub Action
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://06-fcc-rothkopainting.netlify.app)
 
 ### Development (Running locally)
 
